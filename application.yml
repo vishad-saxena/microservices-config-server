@@ -1,3 +1,6 @@
+application:
+  name: CONGIG-SERVICE
+
 eureka:
   client:
     fetch-registry: true
