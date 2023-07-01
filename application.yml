@@ -1,5 +1,6 @@
-application:
-  name: CONGIG-SERVICE
+spring:
+  application:
+    name: CONGIG-SERVICE
 
 eureka:
   client:
